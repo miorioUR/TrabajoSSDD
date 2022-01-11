@@ -7,7 +7,7 @@ import java.io.OutputStreamWriter;
 import java.net.Socket;
 import java.util.HashMap;
 
-
+//https://github.com/MoshDev/java-google-translate-text-to-speech
 
 public class HiloUsuarioLeer extends Thread{
 
@@ -45,7 +45,7 @@ public class HiloUsuarioLeer extends Thread{
 		}
 	}
 	
-	public String getIdioma(String s) {
+	public Object getIdioma(String s) { //Quiero que en vez de string me devuelva Language.IDIOMA
 		switch(s) {
 		case "EN":
 			return "Language.ENGLISH";
