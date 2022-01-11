@@ -1,6 +1,6 @@
 # TrabajoSSDD
 
-Libreria: 
+Libreria (AL FINAL NO LA USA): 
 https://github.com/MoshDev/java-google-translate-text-to-speech
 
 Sala de chat de texto en un servidor multiusuario
